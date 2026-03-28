@@ -6,8 +6,13 @@ Neon Air Pong
 A fast-paced arcade Pong variant with:
 
 • AI opponent
+
 • abilities
+
 • portals
+
 • powerups
+
 • combo system
+
 • shop economy
